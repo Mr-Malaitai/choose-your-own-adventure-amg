@@ -2,4 +2,8 @@ This is a comment from Mervyn
 hey guys
 This is another comment from Mervyn
 
+<<<<<<< HEAD
 BOOM
+=======
+Computer Studies Level 3
+>>>>>>> eb79ea3a0102c27d8767f2fc3d79eb02bcfb22dd
