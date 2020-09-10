@@ -11,3 +11,9 @@
 
     font-size: 100px;
 }
+.contact-body{
+    background-image: url('Space.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
