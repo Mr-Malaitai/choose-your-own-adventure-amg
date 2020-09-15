@@ -16,4 +16,11 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-  }
+}
+
+.contact-box{
+    background-image: url('tree.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
