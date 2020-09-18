@@ -24,3 +24,8 @@
     background-attachment: fixed;
     background-size: cover;
 }
+.homepage{
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+
+}
