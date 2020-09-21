@@ -4,12 +4,20 @@
 }
 
 .btn{
-    background-color: #05dfd7;
+    background-color: #ff4b5c;
 }
 
-.cover h1{
 
+
+.cover h1{
+    text-shadow: 2px 2px red;
     font-size: 100px;
+}
+.cover p1{
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+    font-family: Impact, Charcoal, sans-serif;
+    text-shadow: 2px 2px white;
 }
 .contact-body{
     background-image: url('africa.jpg');
@@ -27,5 +35,7 @@
 .homepage{
     font-family: myFirstFont;
     src: url(sansation_light.woff);
-
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
 }
+
