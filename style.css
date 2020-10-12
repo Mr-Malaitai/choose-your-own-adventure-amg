@@ -12,13 +12,15 @@
 .cover h1{
     text-shadow: 2px 2px red;
     font-size: 90px;
+    font-family: Impact, Charcoal, sans-serif;
 }
 .cover p1{
     font-family: myFirstFont;
     src: url(sansation_light.woff);
-    font-family: Impact, Charcoal, sans-serif;
-    text-shadow: 0.5px 0.5px #ff4b5c;;
     font-size: 29px;
+    font-family: Impact, Charcoal, sans-serif;
+    color: #ff4b5c;
+    text-shadow: 3px 3px black;
 }
 
 .contact-body{
