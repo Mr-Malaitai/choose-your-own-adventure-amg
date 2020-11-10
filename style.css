@@ -1,3 +1,17 @@
+.container h1{
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+    font-size: 100px;
+    font-family: Impact, Charcoal, sans-serif
+
+}
+
+.container p1{
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+    font-size: 200px;
+    font-family: Impact, Charcoal, sans-serif;
+}
 
 .navbar{
     background-color: #ff4b5c;
