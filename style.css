@@ -1,16 +1,17 @@
 .container h1{
-    font-family: myFirstFont;
+    text-shadow: 2px 2px red;
     src: url(sansation_light.woff);
     font-size: 100px;
     font-family: Impact, Charcoal, sans-serif
 
+
 }
 
-.container p1{
-    font-family: myFirstFont;
+.container h2{
     src: url(sansation_light.woff);
-    font-size: 200px;
+    font-size: 29px;
     font-family: Impact, Charcoal, sans-serif;
+    text-shadow: 3px 3px #ff4b5c;;
 }
 
 .navbar{
@@ -19,6 +20,9 @@
 
 .btn{
     background-color: #ff4b5c;
+    src: url(sansation_light.woff);
+    font-family: Impact, Charcoal, sans-serif;
+    color: black;
 }
 
 
@@ -29,7 +33,6 @@
     font-family: Impact, Charcoal, sans-serif;
 }
 .cover p1{
-    font-family: myFirstFont;
     src: url(sansation_light.woff);
     font-size: 29px;
     font-family: Impact, Charcoal, sans-serif;
