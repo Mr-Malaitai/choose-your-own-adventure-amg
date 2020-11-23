@@ -1,0 +1,67 @@
+.container h1{
+    text-shadow: 2px 2px red;
+    src: url(sansation_light.woff);
+    font-size: 100px;
+    font-family: Impact, Charcoal, sans-serif
+
+
+}
+
+.container h2{
+    src: url(sansation_light.woff);
+    font-size: 29px;
+    font-family: Impact, Charcoal, sans-serif;
+    text-shadow: 3px 3px #ff4b5c;;
+}
+
+.navbar{
+    background-color: #ff4b5c;
+}
+
+.btn{
+    background-color: #ff4b5c;
+    src: url(sansation_light.woff);
+    font-family: Impact, Charcoal, sans-serif;
+    color: black;
+}
+
+
+
+.cover h1{
+    text-shadow: 2px 2px red;
+    font-size: 90px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+.cover p1{
+    src: url(sansation_light.woff);
+    font-size: 29px;
+    font-family: Impact, Charcoal, sans-serif;
+    color: #ff4b5c;
+    text-shadow: 3px 3px black;
+}
+
+.contact-body{
+    background-image: url('africa.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.contact-box{
+    background-image: url('tree.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.homepage{
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+}
+
+.contact-form{
+    text-align: center;
+}
+
+/*hello*/
