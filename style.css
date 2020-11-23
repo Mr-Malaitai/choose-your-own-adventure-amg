@@ -1,7 +1,7 @@
 .container h1{
     text-shadow: 2px 2px red;
     src: url(sansation_light.woff);
-    font-size: 100px;
+    font-size: 100vm;
     font-family: Impact, Charcoal, sans-serif
 
 
