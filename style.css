@@ -1,17 +1,65 @@
-.container h1{
-    text-shadow: 2px 2px red;
-    src: url(sansation_light.woff);
-    font-size: 100vm;
-    font-family: Impact, Charcoal, sans-serif
-
-
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "header"
+    "main";
+}
+.
+.header{
+    grid-area: header;
+    text-align: center;
 }
 
-.container h2{
+.main{
+    grid-area: main;
+    text-align: center;
+}
+
+.default{
+    background-image: url('wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
     src: url(sansation_light.woff);
-    font-size: 29px;
+    font-size: 20px;
     font-family: Impact, Charcoal, sans-serif;
-    text-shadow: 3px 3px #ff4b5c;;
+    color: #e5e5e5;
+    text-shadow: 2px 2px #30343f;
+}
+.ending{
+    background-image: url('sunrise.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+        
+}
+
+.container h1{
+    text-shadow: 3px 3px black;
+    src: url(sansation_light.woff);
+    font-size: 60px;
+    font-family: Impact, Charcoal, sans-serif;
+    color: #e5e5e5;
+}
+.video-background{
+    background-image: url('nature.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.container h2{
+    text-shadow: 3px 3px black;
+    src: url(sansation_light.woff);
+    font-size: 40px;
+    font-family: Impact, Charcoal, sans-serif;
+    color: #e5e5e5;
+
 }
 
 .navbar{
@@ -25,43 +73,22 @@
     color: black;
 }
 
-
-
-.cover h1{
-    text-shadow: 2px 2px red;
-    font-size: 90px;
-    font-family: Impact, Charcoal, sans-serif;
-}
-.cover p1{
-    src: url(sansation_light.woff);
-    font-size: 29px;
-    font-family: Impact, Charcoal, sans-serif;
-    color: #ff4b5c;
-    text-shadow: 3px 3px black;
-}
-
-.contact-body{
-    background-image: url('africa.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-
-.contact-box{
-    background-image: url('sunrise.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-.homepage{
-    font-family: myFirstFont;
-    src: url(sansation_light.woff);
-    font-family: Impact, Charcoal, sans-serif;
-    text-align: center;
-}
-
 .contact-form{
     text-align: center;
 }
 
 /*hello*/
+
+@media screen and (max-width: 600px) {
+    .container h1{
+        font-size: 30px;
+    }
+
+    .container p{
+        font-size: 20px;
+    }
+    .container h2{
+        font-size: 20px;
+    }
+
+}
