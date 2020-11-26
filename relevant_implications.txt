@@ -1,0 +1,39 @@
+Relevant implications:
+Accessibility-
+Can anyone access it on any device?
+it is asccesable for mobile phones and computers. Through using media query we are able to adjust the size of the the questions and text to suit mobile devices and computers.
+
+It is assesciable for: dysleix, clourblind, autistic, impaired vision, diabilities
+Unfortuntley the Adventure film, does not compensate for users who face diabilities such as dysliex, and imparied vision. To use this code, you must be able to read. For dysliex and impared vision, this elimnates the posssiabilities of being able to read. Although if they are able to get someone else to read the questions for them, and point out tyhe options they are liekly to be able to play the adventure film.
+
+Can it be accessed on differnt devices?
+The code is asccesable to mobile phones and computers
+
+Aesthetics-
+Does it look good?
+The website is aestheticly pleasing to look at, with the images and bold text makes it easier to read. 
+
+Does it appeal to the right audience?
+Although it is adventure film based at a school the image convey vast landscapes and 
+
+Does it follow design convections?
+The website is consistent in the placing in text and writing. It contaoins consisitnecy of where the buttons and text are placed. The website displays are overrall similar style, and its easy to tell whether the pages are related or not.
+
+Does it convey the right image?
+Although the website is based on a adventure film (text based) in a High school, the images does not imply that it is based on a high School, this is for copyright reasons. the images are used to implicate a adventure vibe throughout the website.  
+
+Functionality-
+Does it work well?
+Fortunetly there have been no bugs discovered so far but will require further testing in the future to discover some. The website works well and has no problems loading in so far.
+
+Does it load quickly?
+The Website loads quickly with no problems (so far). This is most likely due to not having multiple images and widgets that increase loading times. The simplistic design prevent these issues from happening.
+
+Are there glitches or bugs?
+Not so far, may require more testing to discover if there are any.
+
+Do all the links work correctly?
+All links work correctly, and have no problems going to the pages they are linked too. Buttons work well.
+
+will it work on all browsers and devices?
+The website works on chrome and microsoft edge with no problems, and should work with mobile device and other web browsers.
